@@ -69,6 +69,7 @@ Aplikasi manajemen keuangan untuk siswa SMK dengan platform Web dan Mobile.
 ## 📊 Database Schema (Draft)
 
 ### Users Table
+
 ```sql
 - id (primary key)
 - email (unique)
@@ -79,6 +80,7 @@ Aplikasi manajemen keuangan untuk siswa SMK dengan platform Web dan Mobile.
 ```
 
 ### Transactions Table
+
 ```sql
 - id (primary key)
 - user_id (foreign key)
@@ -92,6 +94,7 @@ Aplikasi manajemen keuangan untuk siswa SMK dengan platform Web dan Mobile.
 ```
 
 ### Categories Table
+
 ```sql
 - id (primary key)
 - user_id (foreign key, nullable for default)
@@ -103,6 +106,7 @@ Aplikasi manajemen keuangan untuk siswa SMK dengan platform Web dan Mobile.
 ```
 
 ### Targets Table (untuk fitur tabungan)
+
 ```sql
 - id (primary key)
 - user_id (foreign key)
