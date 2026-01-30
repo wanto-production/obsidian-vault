@@ -2,6 +2,8 @@
 
 ## Homework
 - **IPS**:
-  - [ ] Catatan
+  - [X] Catatan
 - **SBDP (Seni Budaya)**:
   - [ ] Print an
+- Bahasa sunda:
+  - [ ] Catatan

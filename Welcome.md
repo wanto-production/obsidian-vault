@@ -2,8 +2,8 @@
 
 This is your new space for notes and ideas. Here's a quick overview of what's inside:
 
-- **[[📋-project-overview]]**: A detailed project plan for a finance application.
-- **[[general-debt]]**: A simple to-do list for tracking debts.
+- **[[finance-app]]**: A detailed project plan for a finance application.
+- **[[debt-tracker]]**: A simple to-do list for tracking debts.
 - **[[school-tasks]]**: A list of school-related tasks.
 
 Feel free to explore and modify these notes. You can also create new notes and link them together.

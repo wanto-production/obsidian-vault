@@ -1,6 +1,4 @@
 # Debt Tracker
 
-
-| Status    | Description              | Amount     |
-| --------- | ------------------------ | ---------- |
-| [ ]       | Telkomsel Kuota Darurat  | Rp10.000   |
+## Task
+- [X] Telkomsel Kuota darurat | Rp10.000

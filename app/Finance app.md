@@ -1,4 +1,4 @@
-# 📋 Project Overview
+# Finance App
 Aplikasi manajemen keuangan untuk siswa SMK dengan platform Web dan Mobile.
 
 ---
