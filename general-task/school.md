@@ -5,5 +5,5 @@
   - [X] Catatan
 - **SBDP (Seni Budaya)**:
   - [ ] Print an
-- Bahasa sunda:
+- **Bahasa sunda**:
   - [ ] Catatan
