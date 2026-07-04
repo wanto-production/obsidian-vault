@@ -24,7 +24,7 @@ Aplikasi manajemen keuangan untuk siswa SMK dengan platform Web dan Mobile.
 ### Mobile Platform
 - **Framework**: Expo (React Native)
 - **Language**: TypeScript
-- **API Client**: Axios / Fetch API
+- **API Client**: Graphql
 - **Navigation**: Expo Router
 - **State Management**: Zustand / TanStack Query
 

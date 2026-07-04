@@ -4,6 +4,6 @@
 - **IPS**:
   - [X] Catatan
 - **SBDP (Seni Budaya)**:
-  - [ ] Print an
+  - [X] Print an
 - **Bahasa sunda**:
-  - [ ] Catatan
+  - [x] Catatan
